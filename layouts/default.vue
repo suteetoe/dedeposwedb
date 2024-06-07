@@ -1,12 +1,7 @@
 <template>
   <div>
     <TheHeader />
-    <Nuxt />
+    <slot />
     <TheFooter />
   </div>
 </template>
-<script>
-export default {
-    name: 'layouts_default'
-}
-</script>
