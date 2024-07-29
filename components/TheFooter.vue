@@ -4,7 +4,7 @@
       <div class="max-w-md mx-auto pt-12 px-4 sm:max-w-7xl sm:px-6 lg:pt-16 lg:px-8">
         <div class="xl:grid xl:grid-cols-3 xl:gap-8">
           <div class="space-y-8 xl:col-span-1">
-            <img class="h-10" src="https://tailwindui.com/img/logos/workflow-mark-gray-300.svg" alt="Company name">
+            <img class="h-10 grayscale" src="/logo.png" alt="DEDE POS">
             <p class="text-gray-500 text-base">Making the world a better place through constructing elegant hierarchies.</p>
             <div class="flex space-x-6">
               <a href="#" class="text-gray-400 hover:text-gray-500">
@@ -131,7 +131,7 @@
           </div>
         </div>
         <div class="mt-12 border-t border-gray-200 py-8">
-          <p class="text-base text-gray-400 xl:text-center">&copy; 2020 Workflow, Inc. All rights reserved.</p>
+          <p class="text-base text-gray-400 xl:text-center">&copy; 2024 SMLSoft, Inc. All rights reserved.</p>
         </div>
       </div>
     </footer>
