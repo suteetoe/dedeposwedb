@@ -7,6 +7,19 @@ export default defineNuxtConfig({
           tailwindcss: {},
           autoprefixer: {},
         },
-      },
+    },
+    app: {
+      // Make sure environment variables are respected by the app
+      baseURL: process.env.BASE_URL || '/'
+    },
+    nitro: {
+      // Pass PORT environment variable to Nitro server
+      routeRules: {
+        '/**': { cors: true }
+      }
+    },
+    // Use port from environment variable for development server
+    devServer: {
+      port: process.env.PORT ? parseInt(process.env.PORT) : 3000
+    }
   })
-  
