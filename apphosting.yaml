@@ -8,9 +8,13 @@ runConfig:
   # memoryMiB: 512
 
 # Environment variables and secrets.
-# env:
+env:
   # Configure environment variables.
   # See https://firebase.google.com/docs/app-hosting/configure#user-defined-environment
+  - variable: PORT
+    value: "8080"
+    availability:
+      - RUNTIME
   # - variable: MESSAGE
   #   value: Hello world!
   #   availability:
@@ -23,4 +27,4 @@ runConfig:
   #   secret: mySecretRef
 scripts:
   buildCommand: nuxt build
-  runCommand: node .output/server/index.mjs
+  runCommand: PORT=8080 node .output/server/index.mjs
