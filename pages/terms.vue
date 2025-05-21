@@ -7,7 +7,7 @@
         Terms &amp; Conditions
       </h1>
       <p class="mt-4 text-base leading-7 text-slate-600">
-        Last updated: June 07, 2024
+        Last updated: May 21, 2025
       </p>
     </div>
 
@@ -15,13 +15,21 @@
       <div
         class="mx-auto max-w-[40rem] prose-sm prose prose-slate prose-a:font-semibold prose-a:text-sky-500 hover:prose-a:text-sky-600"
       >
+        <h3>About dedepos</h3>
+        <p>
+          dedepos is a comprehensive Point of Sale (POS) software solution designed for modern businesses. 
+          Our software is cross-platform and available on multiple operating systems including Android, iOS, Windows, and macOS, 
+          providing flexibility for your business operations regardless of your preferred device.
+        </p>
+        
+        <h3>Terms of Use</h3>
         <p>
           By downloading or using the app, these terms will automatically apply
           to you – you should make sure therefore that you read them carefully
-          before using the app. You’re not allowed to copy or modify the app,
-          any part of the app, or our trademarks in any way. You’re not allowed
+          before using the app. You're not allowed to copy or modify the app,
+          any part of the app, or our trademarks in any way. You're not allowed
           to attempt to extract the source code of the app, and you also
-          shouldn’t try to translate the app into other languages or make
+          shouldn't try to translate the app into other languages or make
           derivative versions. The app itself, and all the trademarks,
           copyright, database rights, and other intellectual property rights
           related to it, still belong to SMLSoft Co.,Ltd.
@@ -32,18 +40,18 @@
           efficient as possible. For that reason, we reserve the right to make
           changes to the app or to charge for its services, at any time and for
           any reason. We will never charge you for the app or its services
-          without making it very clear to you exactly what you’re paying for.
+          without making it very clear to you exactly what you're paying for.
         </p>
 
         <p>
-          The dede Pos app stores and processes personal data that you have
-          provided to us, to provide our Service. It’s your responsibility to
-          keep your phone and access to the app secure. We therefore recommend
-          that you do not jailbreak or root your phone, which is the process of
+          The dedepos app stores and processes personal data that you have
+          provided to us, to provide our Service. It's your responsibility to
+          keep your devices and access to the app secure. We therefore recommend
+          that you do not jailbreak or root your mobile devices, which is the process of
           removing software restrictions and limitations imposed by the official
-          operating system of your device. It could make your phone vulnerable
-          to malware/viruses/malicious programs, compromise your phone’s
-          security features and it could mean that the dede Pos app won’t work
+          operating system of your device. It could make your device vulnerable
+          to malware/viruses/malicious programs, compromise your device's
+          security features and it could mean that the dedepos app won't work
           properly or at all.
         </p>
         <p>
@@ -63,7 +71,22 @@
               >Google Play Services</a
             >
           </li>
-          <!----><!----><!---->
+          <li>
+            <a
+              href="https://www.apple.com/legal/internet-services/itunes/us/terms.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >App Store (Apple)</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.microsoft.com/en-us/servicesagreement"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Microsoft Store</a
+            >
+          </li>
           <li>
             <a
               href="https://www.facebook.com/legal/terms/plain_text_terms"
@@ -80,31 +103,31 @@
         require the app to have an active internet connection. The connection
         can be Wi-Fi or provided by your mobile network provider, but SMLSoft
         Co.,Ltd cannot take responsibility for the app not working at full
-        functionality if you don’t have access to Wi-Fi, and you don’t have any
+        functionality if you don't have access to Wi-Fi, and you don't have any
         of your data allowance left.
       </p>
       <p>
-        If you’re using the app outside of an area with Wi-Fi, you should
+        If you're using the app outside of an area with Wi-Fi, you should
         remember that the terms of the agreement with your mobile network
         provider will still apply. As a result, you may be charged by your
         mobile provider for the cost of data for the duration of the connection
         while accessing the app, or other third-party charges. In using the app,
-        you’re accepting responsibility for any such charges, including roaming
+        you're accepting responsibility for any such charges, including roaming
         data charges if you use the app outside of your home territory (i.e.
         region or country) without turning off data roaming. If you are not the
-        bill payer for the device on which you’re using the app, please be aware
+        bill payer for the device on which you're using the app, please be aware
         that we assume that you have received permission from the bill payer for
         using the app.
       </p>
       <p>
         Along the same lines, SMLSoft Co.,Ltd cannot always take responsibility
         for the way you use the app i.e. You need to make sure that your device
-        stays charged – if it runs out of battery and you can’t turn it on to
+        stays charged – if it runs out of battery and you can't turn it on to
         avail the Service, SMLSoft Co.,Ltd cannot accept responsibility.
       </p>
       <p>
-        With respect to SMLSoft Co.,Ltd’s responsibility for your use of the
-        app, when you’re using the app, it’s important to bear in mind that
+        With respect to SMLSoft Co.,Ltd's responsibility for your use of the
+        app, when you're using the app, it's important to bear in mind that
         although we endeavor to ensure that it is updated and correct at all
         times, we do rely on third parties to provide information to us so that
         we can make it available to you. SMLSoft Co.,Ltd accepts no liability
@@ -113,14 +136,14 @@
       </p>
       <p>
         At some point, we may wish to update the app. The app is currently
-        available on Android &amp; iOS – the requirements for the both
-        systems(and for any additional systems we decide to extend the
-        availability of the app to) may change, and you’ll need to download the
+        available on Android, iOS, Windows, and macOS – the requirements for these
+        systems (and for any additional systems we decide to extend the
+        availability of the app to) may change, and you'll need to download the
         updates if you want to keep using the app. SMLSoft Co.,Ltd does not
         promise that it will always update the app so that it is relevant to you
-        and/or works with the Android &amp; iOS version that you have installed
+        and/or works with the Android, iOS, Windows, or macOS version that you have installed
         on your device. However, you promise to always accept updates to the
-        application when offered to you, We may also wish to stop providing the
+        application when offered to you. We may also wish to stop providing the
         app, and may terminate use of it at any time without giving notice of
         termination to you. Unless we tell you otherwise, upon any termination,
         (a) the rights and licenses granted to you in these terms will end; (b)
@@ -134,7 +157,7 @@
         advised to review this page periodically for any changes. We will notify
         you of any changes by posting the new Terms and Conditions on this page.
       </p>
-      <p>These terms and conditions are effective as of 2022-02-14</p>
+      <p>These terms and conditions are effective as of May 21, 2025</p>
 
       <h3>Contact Us</h3>
       <p>
