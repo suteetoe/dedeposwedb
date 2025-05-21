@@ -26,7 +26,7 @@
       </div>
 
       <!-- Logo cloud -->
-      <div class="bg-gray-100">
+      <!-- <div class="bg-gray-100">
         <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
           <p class="text-center text-sm font-semibold uppercase text-gray-500 tracking-wide">ใช้งานได้ทั้งธุรกิจขนาดเล็กและขนาดใหญ่</p>
           <div class="mt-6 grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
@@ -47,7 +47,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       
       <!-- Features section -->
       <div id="features" class="py-16 bg-white overflow-hidden">
