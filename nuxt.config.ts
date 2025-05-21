@@ -16,7 +16,7 @@ export default defineNuxtConfig({
       // Pass PORT environment variable to Nitro server
       routeRules: {
         '/**': { cors: true }
-      }
+      },
     },
     // Use port and host from environment variables for development server
     devServer: {
