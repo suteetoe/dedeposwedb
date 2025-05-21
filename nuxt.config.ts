@@ -18,8 +18,9 @@ export default defineNuxtConfig({
         '/**': { cors: true }
       }
     },
-    // Use port from environment variable for development server
+    // Use port and host from environment variables for development server
     devServer: {
-      port: process.env.PORT ? parseInt(process.env.PORT) : 3000
+      port: process.env.PORT ? parseInt(process.env.PORT) : 3000,
+      host: process.env.HOST || '0.0.0.0'
     }
   })
